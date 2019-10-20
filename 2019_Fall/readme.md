@@ -81,7 +81,7 @@ Make the Pull Request from your own GitHub account. Make sure you're changing th
 
 - [X] Leonard, Oscar (@oscarleonard)
 
-- [X] Louth, Brittany (@blouth620)
+- [X] Louth, Brittany (@blouth620):dancer: :nail_care:
 
 - [X] Lynn, Cindy (@clynn00)
 
